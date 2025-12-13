@@ -131,11 +131,7 @@ Coming Soon...
 
 ## 🎯 2025 Goals
 
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build and deploy 5 production-grade applications
-- [ ] Master Kubernetes and microservices architecture
-- [ ] Write technical blog posts regularly
-- [ ] Achieve AWS Solutions Architect certification
+
 
 ## 📫 How to Reach Me
 
