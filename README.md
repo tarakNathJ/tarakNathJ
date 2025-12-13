@@ -13,7 +13,6 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
 - 🔭 I'm currently working on **N8N Clone** and various full-stack projects
 - 🌱 I'm exploring **Microservices Architecture**, **Kubernetes**, and **Apache Kafka**
 - 💡 I'm interested in **System Design**, **DevOps**, and **Cloud Computing**
-- 🎯 2025 Goals: Contribute more to Open Source and build production-grade applications
 - ⚡ Fun fact: I love optimizing code and solving complex problems
 
 ## 🌐 Connect With Me
