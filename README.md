@@ -84,22 +84,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarakNathJ&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarakNathJ&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarakNathJ&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarakNathJ&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ## 📈 Contribution Graph
 
