@@ -10,7 +10,7 @@
 
 I'm a passionate Full Stack Developer with expertise in modern web technologies, cloud infrastructure, and scalable application development. I love building projects that solve real-world problems and continuously learning new technologies.
 
-- 🔭 I'm currently working on **POKER GAME** and various full-stack projects
+- 🔭 I'm currently working on **Personal Product** and various full-stack projects
 - 🌱 I'm exploring **Microservices Architecture**, **Kubernetes**, and **Apache Kafka**
 - 💡 I'm interested in **System Design**, **DevOps**, and **Cloud Computing**
 - ⚡ Fun fact: I love optimizing code and solving complex problems
